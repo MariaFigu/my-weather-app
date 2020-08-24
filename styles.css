@@ -1,0 +1,30 @@
+.temp {
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 1;
+}
+.container {
+  padding: 20px;
+}
+.card-day {
+  margin: 5px;
+}
+.card-body {
+  font-size: 14px;
+}
+.card-wind {
+  font-size: 12px;
+}
+
+button {
+  width: 50px;
+}
+
+.units {
+  position: relative;
+  top: -16px;
+  font-size: 14px;
+}
+.mood {
+  text-transform: capitalize;
+}
